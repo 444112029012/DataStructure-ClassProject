@@ -1,0 +1,10 @@
+4
+alpha 45 男性 1
+banana 55 女性 2
+fork 25 男性 2
+cat 12 男性 3
+eeg 4 女性 3
+iu 41 女性 3
+dark 4 女性 4
+gun 75 女性 4
+hello 15 女性 4
